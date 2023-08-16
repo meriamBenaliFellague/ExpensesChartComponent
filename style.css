@@ -82,34 +82,30 @@ body{
     color: var(--Medium-brown);
 }
 
+.cnt{
+    border-radius: 7px;
+    margin-left: 20px;
+    background-color: var(--Soft-red);
+    width: 50px;
+}
+
 .cnt1{
     margin-top: 145%;
     height: 52px;
-    border-radius: 7px;
-    margin-left: 20px;
     grid-column: 1/2;
     grid-row: 1/2;
-    background-color: var(--Soft-red);
-    width: 50px;
 }
 
 .cnt2{
     margin-top: 80%;
     height: 100px;
-    border-radius: 7px;
-    margin-left: 20px;
-    width: 50px;
     grid-column: 2/3;
     grid-row: 1/2;
-    background-color: var(--Soft-red);
 }
 
 .cnt3{
     margin-top: 10%;
     height: 150px;
-    border-radius: 7px;
-    margin-left: 20px;
-    width: 50px;
     grid-column: 3/4;
     grid-row: 1/2;
     background-color: var(--Cyan);
@@ -118,46 +114,30 @@ body{
 .cnt4{
     margin-top: 90%;
     height: 90px;
-    border-radius: 7px;
-    margin-left: 20px;
-    width: 50px;
     grid-column: 4/5;
     grid-row: 1/2;
-    background-color: var(--Soft-red);
 }
 
 .cnt5{
     margin-top: 117%;
     height: 70px;
-    border-radius: 7px;
-    margin-left: 20px;
-    width: 50px;
     grid-column: 5/6;
     grid-row: 1/2;
-    background-color: var(--Soft-red);
 }
 
 .cnt6{
     margin-top: 53%;
     height: 120px;
-    border-radius: 7px;
-    margin-left: 20px;
-    width: 50px;
     grid-column: 6/7;
     grid-row: 1/2;
-    background-color: var(--Soft-red);
 }
 
 .cnt7{
     margin-top: 80%;
     height: 80px;
-    border-radius: 7px;
-    margin-left: 20px;
     margin-right: 30px;
-    width: 50px;
     grid-column: 7/8;
     grid-row: 1/2;
-    background-color: var(--Soft-red);
 }
 
 .mon{
